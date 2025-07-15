@@ -58,7 +58,7 @@ plt.savefig("QBERvsSKER.tiff", dpi=1200)
 ## Citation
 
 ```
-[Anand V. , Yugunanda M. , Aayush G.]. "Design and Comparative Evaluation of Satellite Constellation Architectures for Quantum Key Distribution over Indian Ground Stations." [Conference/Journal], [Year].
+[Anand V. , Yugunanda M. , Aayush G.]. "Design and Simulation of a Decoy-State BB84 Satellite QKD Constellation for Indian Ground Stations".
 ```
 
 ...
