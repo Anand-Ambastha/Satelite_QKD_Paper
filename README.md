@@ -58,16 +58,17 @@ plt.savefig("QBERvsSKER.tiff", dpi=1200)
 ## Citation
 
 ```
-[Anand V. , Yugunanda M. , Aayush G.]. "Design and Simulation of a Decoy-State BB84 Satellite QKD Constellation for Indian Ground Stations".
+[Anand K. , Yugunanda M. , Aayush G.]. "Design and Simulation of a Decoy-State BB84 Satellite QKD Constellation for Indian Ground Stations".
 ```
 
 ...
 
 ## Contact
 
-* Author: Anand Ambastha
-* Email: \[[verma05anand@gmail.com](mailto:verma05anand@gmail.com)]
+* Author: Anand Kumar
+* LinkedIn: \[[Anand Kumar](https://www.linkedin.com/in/anand-kumar05)]
 * GitHub: \[[Anand Kumar](https://github.com/Anand-Ambastha)]
+* Email: \[[verma05anand@gmail.com](mailto:verma05anand@gmail.com)]
 
 ...
 
