@@ -58,7 +58,7 @@ plt.savefig("QBERvsSKER.tiff", dpi=1200)
 ## Citation
 
 ```
-[Anand K. , Yugunanda M. , Aayush G.]. "Design and Simulation of a Decoy-State BB84 Satellite QKD Constellation for Indian Ground Stations".
+[Anand K. , Yugunanda M. , Aayush G., Jolly P.]. "Design and Simulation of a Decoy-State BB84 Satellite QKD Constellation for Indian Ground Stations".
 ```
 
 ...
@@ -75,5 +75,6 @@ plt.savefig("QBERvsSKER.tiff", dpi=1200)
 ## License
 
 Academic use only.
+
 
 ```
